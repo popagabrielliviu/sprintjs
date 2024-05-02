@@ -74,3 +74,4 @@ const alfa = true;
 const beta = true;
 
 console.log(true !== true);
+console.log ("exercitii");
